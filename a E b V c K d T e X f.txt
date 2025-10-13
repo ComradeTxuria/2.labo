@@ -1,0 +1,24 @@
+ a - E
+ b - V
+ c - K
+ d - T
+ e - X
+ f - U
+ g - G
+ h - R
+ i - C
+ j - F
+ l - I
+ m - D
+ n - J
+ o - A
+ p - P
+ q - S 
+ r - K
+ s - N
+ t - H
+ u - Z
+ v - M
+ y - Q
+anarquista
+EJEKSZCNHE
